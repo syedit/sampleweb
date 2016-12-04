@@ -1,0 +1,22 @@
+.login-container {
+	width: 300px;
+	margin: 0 auto;
+	position: relative;
+	top : 150px;
+}
+.niram{
+	border: none;
+	background-color: green;
+	color: white;
+	width: 75px;
+	height: 20px;
+}
+.tab-ul{
+	list-style-type: none;
+}
+
+.tab-ul li {
+	display: inline-block;
+	width: 100px;
+	background-color: gray;
+}
